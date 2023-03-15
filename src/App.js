@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+//Brandon Le
+//3-14-23
+//Advice Generator in React
+//With the provided assets I rebuilt a react app that uses bootstrap, css, and html. We used ASYNC to access the advice API and this will be hosted on azure.
+//Peer Review By Pedro 
+
+import AdviceGenerator from './advicegeneratorcomponent/AdviceGenerator';
+import './advicegeneratorcomponent/AdviceGenerator.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="">
+      <AdviceGenerator />
     </div>
   );
 }
