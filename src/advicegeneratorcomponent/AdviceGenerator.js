@@ -21,7 +21,7 @@ const AdviceGenerator = () => {
         <Col xs={12} lg={12} className="advice-generator-col">
           <div className="content text-center">
           <p className="slip-id">A&nbsp;&nbsp;D&nbsp;&nbsp;V&nbsp;&nbsp;I&nbsp;&nbsp;C&nbsp;&nbsp;E&nbsp;&nbsp;#&nbsp;&nbsp;{adviceData.slip_id.toString().split('').join(' ')}</p>
-            <p className="advice">&ldquo;{adviceData.advice}&rdquo;</p>
+          <p className="advice">{adviceData.advice ? `“${adviceData.advice}”` : "Press the button :D"}</p>
             <img
               src={mobilePattern}
               alt="mobile pattern"
