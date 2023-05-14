@@ -2,7 +2,7 @@
 
 Advice Generator is a web application built with React and Bootstrap. It allows users to generate random advice messages to gain insights, inspiration, or guidance. The project involves calling an API (https://api.adviceslip.com/) to retrieve random advice quotes and displaying them to the user in an intuitive and user-friendly interface.
 
-**Check out the deployed application [Coming Soon...](https://urlgoeshere.azurewebsites.net/).**
+**Check out the deployed application [here](https://advicegenbrandon.azurewebsites.net/).**
 
 ## Features
 
