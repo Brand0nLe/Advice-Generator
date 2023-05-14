@@ -42,8 +42,11 @@ The Advice Generator project aims to test the ability to recreate a product with
 
 ## Contact
 
-If you have any questions or feedback about this project, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) to stay updated on my latest projects and professional profile.
+If you have any questions or feedback about this project, feel free to contact me at [brandonctle.dev@gmail.com](mailto:brandonctle.dev@gmail.com).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonctle/) to stay updated on my latest projects and professional profile.
+
+You can also [visit my portfolio website](https://brandonle.azurewebsites.net/).
 
 Thanks for visiting!
